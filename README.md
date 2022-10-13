@@ -24,7 +24,7 @@
   Task 4 : [Notebook link]() <br>
   
  ### Week 5:  
- [Kaggle Data Cleaning](https://www.kaggle.com/learn/data-cleaning) <br>
+ [Kaggle Data Cleaning Tutorial](https://www.kaggle.com/learn/data-cleaning) <br>
  [Notebook_1](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/notebook) <br>
  [Notebook_2](https://www.kaggle.com/code/ashishg21/data-cleaning-and-some-analysis-shoe-prices/notebook) <br>
  Task 5 : [Notebook link]() <br> 
