@@ -6,45 +6,45 @@
   
  ## Beginner
  
- ### Week 1 : 
+ ### Python : 
  [Python (Udacity Course)](https://www.udacity.com/course/introduction-to-python--ud1110) <br>
- Task 1 :  [Notebook link]() <br> 
+ Task :  [Notebook link]() <br> 
  
- ### Week 2: 
+ ### OOP py : 
  [oop Playlist](https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) <br>
- Task 2 : [Notebook link]() <br>  
+ Task : [Notebook link]() <br>  
   
- ### Week 3:
+ ### Numpy & Descriptive Statistics:
  [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br> 
  [Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827?fbclid=IwAR1w3TNQ50zyRncxsZLFgVG1I_atICLm9Tl-HYTA3vDUoz_gzpJeE5QHnvA) <br> 
- Task 3 : [Notebook link]() <br>
+ Task : [Notebook link]() <br>
  
-  ### Week 4:
+  ### Pandas:
   [Pandas playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
-  Task 4 : [Notebook link]() <br>
+  Task : [Notebook link]() <br>
   
- ### Week 5:  
+ ### Data Cleaning:  
  [Kaggle Data Cleaning Tutorial](https://www.kaggle.com/learn/data-cleaning) <br>
  [Notebook_1](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/notebook) <br>
  [Notebook_2](https://www.kaggle.com/code/ashishg21/data-cleaning-and-some-analysis-shoe-prices/notebook) <br>
- Task 5 : [Notebook link]() <br> 
+ Task : [Notebook link]() <br> 
   
- ### Week 6:
+ ### Data Visualization 📊:
  [Matplotlib Playlist](https://www.youtube.com/playlist?app=desktop&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) <br>
  [Visualizing Seaborn](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) <br>
- Task 6 : [Notebook link]() <br>  
+ Task : [Notebook link]() <br>  
   
- ### Week 7: 
- [EDA](https://www.coursera.org/learn/data-analysis-with-python) <br> 
+ ### EDA: 
+ [EDA Course](https://www.coursera.org/learn/data-analysis-with-python) <br> 
  Read [Notebook](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook) <br>
- Task 7 : [Notebook link]() <br>
+ Task : [Notebook link]() <br>
   
  ### Optinal For Data Analysis..
  
- - #### Week 1:
-      - Power Bi [udacity course](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) <br>
+ - #### Power Bi:
+      - [Power Bi playlist](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) <br>
  
- - #### Week 2: 
+ - #### SQL: 
       - [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) <br>
       - Read [Notebook](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql) <br>
 
@@ -52,28 +52,28 @@
   
  ## Intermediate
  
- ### Week 1:  
+ ### Mathematics for Machine Learning:  
  [Most of the needed basics](https://youtube.com/playlist?list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7) <br>
- Task 1 : [Notebook link]() <br>
+ Task : [Notebook link]() <br>
 
- ### Week 2: 
- First week in [Whole Intro to ML](https://www.youtube.com/watch?v=9f-GarcDY58) <br>  
- Task 2 : [Notebook link]() <br>
+ ### : Intro To ML
+ [Whole Intro to ML](https://www.youtube.com/watch?v=9f-GarcDY58) <br>  
+ Task : [Notebook link]() <br>
   
- ### Week 3: 
+ ### Regression in ML: 
  [Regression](https://www.coursera.org/learn/ml-regression?specialization=machine-learning) <br>
- Task 3 : [Notebook link]() <br>
+ Task : [Notebook link]() <br>
 
- ### Week 4: 
+ ### classification in ML: 
  [classification](https://www.coursera.org/learn/ml-classification?specialization=machine-learning) <br>
- Task 4 : [Notebook link]() <br>
+ Task : [Notebook link]() <br>
 
- ### Week 5: 
+ ### clustering  in ML: 
  [clustering](https://www.coursera.org/learn/ml-clustering-and-retrieval?specialization=machine-learning) <br>
- Task 5 : [Notebook link]() <br>
+ Task : [Notebook link]() <br>
 
- ### Week 6: 
- [einforcement Learning](https://youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) <br>
+ ### Week 6: Reinforcement in ML
+ [Reinforcement Learning](https://youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) <br>
  Task 6 : [Notebook link]() <br>
 
  
