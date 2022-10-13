@@ -1,15 +1,7 @@
-<h1 align="center">Roadmap into weeks </h1> 
+<h1 align="center">CIS Data Science Roadmap</h1> 
 
-
- ### This roadmap is divided into 3 levels:
- ```
-1. Beginner: learn the tools that will help you complete your journey.
-2. Intermediate: dive more into cleaning, visualisations and other topics. 
-3. Advanced A: Start your ML and Math journey.
-    Advanced B: Discover Deep Learning, Computer Vision and NLP. 
- ```
  <br> 
-  
+ 
   
   
  ## Beginner
@@ -82,14 +74,14 @@
 
  
  ### Optinal 
- ### Week 1: 
- [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
+ - #### Week 1: 
+        - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
   
- ### Week 2: 
- Third Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
+ - #### Week 2: 
+        - Third Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
  
- ### Week 3: 
- Fourth Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
+ - #### Week 3: 
+        - Fourth Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
 
 
 
