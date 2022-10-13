@@ -75,13 +75,13 @@
  
  ### Optinal 
  - #### Week 1: 
-        - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
+   - First 2 weeks in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
   
  - #### Week 2: 
-        - Third Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
+   - Third Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
  
  - #### Week 3: 
-        - Fourth Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
+   - Fourth Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
 
 
 
