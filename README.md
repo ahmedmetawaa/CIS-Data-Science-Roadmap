@@ -16,7 +16,7 @@
   
  ### Week 3:
  [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br> 
- [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
+ [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827?fbclid=IwAR1w3TNQ50zyRncxsZLFgVG1I_atICLm9Tl-HYTA3vDUoz_gzpJeE5QHnvA) <br> 
  Task 3 : [Notebook link]() <br>
  
   ### Week 4:
@@ -58,19 +58,23 @@
 
  ### Week 2: 
  First week in [Whole Intro to ML](https://www.youtube.com/watch?v=9f-GarcDY58) <br>  
- Task 2 : []() <br>
+ Task 2 : [Notebook link]() <br>
   
  ### Week 3: 
  [Regression](https://www.coursera.org/learn/ml-regression?specialization=machine-learning) <br>
-  
+ Task 3 : [Notebook link]() <br>
+
  ### Week 4: 
  [classification](https://www.coursera.org/learn/ml-classification?specialization=machine-learning) <br>
- 
+ Task 4 : [Notebook link]() <br>
+
  ### Week 5: 
  [clustering](https://www.coursera.org/learn/ml-clustering-and-retrieval?specialization=machine-learning) <br>
- 
+ Task 5 : [Notebook link]() <br>
+
  ### Week 6: 
  [einforcement Learning](https://youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) <br>
+ Task 6 : [Notebook link]() <br>
 
  
  ### Optinal 
