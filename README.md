@@ -11,12 +11,12 @@
  Task 1 :  [Notebook link]() <br> 
  
  ### Week 2: 
- [oop Course](https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) <br>
+ [oop Playlist](https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) <br>
  Task 2 : [Notebook link]() <br>  
   
  ### Week 3:
- [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br> 
- [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827?fbclid=IwAR1w3TNQ50zyRncxsZLFgVG1I_atICLm9Tl-HYTA3vDUoz_gzpJeE5QHnvA) <br> 
+ [Numpy playlist](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br> 
+ [Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827?fbclid=IwAR1w3TNQ50zyRncxsZLFgVG1I_atICLm9Tl-HYTA3vDUoz_gzpJeE5QHnvA) <br> 
  Task 3 : [Notebook link]() <br>
  
   ### Week 4:
