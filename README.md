@@ -13,11 +13,10 @@
   
   
  ## Beginner
+ 
  ### Week 1 : 
  [Python (Udacity Course)](https://www.udacity.com/course/introduction-to-python--ud1110) <br>
  Task 1 :  [Notebook link]() <br> 
- 
- <br>  
  
  ### Week 2: 
  [oop Course](https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) <br>
@@ -48,59 +47,52 @@
  Read [Notebook](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook) <br>
  Task 7 : [Notebook link]() <br>
   
- #### Optinal 
+ ### Optinal For Data Analysis..
  
- - ### Week 1:
+ - #### Week 1:
       - Power Bi [udacity course](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) <br>
       - Task 1 : [Notebook link]() <br>
  
- - ### Week 2: 
+ - #### Week 2: 
       - [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) <br>
       - Read [Notebook](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql) <br>
       - Task 2 : [Notebook link]() <br>
 
   
   
- ## Advanced A
- ### Week 1 :  
- First 3 weeks in [AI for everyone](https://www.coursera.org/learn/ai-for-everyone) <br>
- Task 1 : [Notebook link](https://docs.google.com/forms/d/e/1FAIpQLSdz-6guh0JWStVvNw3mZAcJZF8hWBm9A7jb36iAyFxbW6JeeQ/viewform?fbclid=IwAR2V9vTaS8jsDoT3Fm5KvOAYK7qk8AQNJ057ddYEVqLkG6mYgCZSNmz35DY) <br>
-
- ### Week 2 : 
- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) <br>   
-
- ### Week 3 : 
- First week in [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br>  
-  Task 2.A : [Notebook link](https://colab.research.google.com/drive/1Sa1sQ0jLy5_okr25LnSChKNKjPf_Wy-i?usp=sharing&fbclid=IwAR0s61MHV7ow7DQTHMmagM5UtCmowgsu9bNyLI5vYO1JZe-wqwRssimi2cs#scrollTo=ACCeg2H54Mcw) <br>
-  Task 2.B : [MCQ FORM](https://forms.gle/3ktHDyzLcN1mCHNKA) <br>
-  
- ### Week 4 : 
- Second week in [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br>
-  
- ### Week 5 : 
- Finish [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br> 
- Task 1 : [Notebook link]() <br>
+ ## Intermediate
  
- ### Week 6 : 
- First Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
+ ### Week 1:  
+ [Most of the needed basics]([https://www.coursera.org/learn/ai-for-everyone](https://youtube.com/playlist?list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)) <br>
+ Task 1 : [Notebook link]() <br>
+
+ ### Week 2: 
+ First week in [Whole Intro to ML]([https://www.coursera.org/learn/machine-learning](https://www.youtube.com/watch?v=9f-GarcDY58)) <br>  
+ Task 2 : []() <br>
   
- ### Week 7 : 
- Second Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
+ ### Week 3: 
+ [Linear Regression](https://www.youtube.com/watch?v=lNHaZlZJATw) <br>
   
- ### Week 8 : 
+ ### Week 4: 
+ [Logistic Regression](https://youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe) <br>
+ 
+ ### Week 5: 
+ [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
+  
+ ### Week 8: 
  Third Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
  
- ### Week 9 : 
+ ### Week 9: 
  Fourth Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
  Task 2 : [Notebook link]() <br>
  
- ### Week 10 :
+ ### Week 10:
  First Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br> 
  
- ### Week 11 :
+ ### Week 11:
  Second Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)<br>
  
- ### Week 12 :
+ ### Week 12:
  Third Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
  Task 3 : [Notebook link]() <br>
 
