@@ -51,52 +51,47 @@
  
  - #### Week 1:
       - Power Bi [udacity course](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) <br>
-      - Task 1 : [Notebook link]() <br>
  
  - #### Week 2: 
       - [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) <br>
       - Read [Notebook](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql) <br>
-      - Task 2 : [Notebook link]() <br>
 
   
   
  ## Intermediate
  
  ### Week 1:  
- [Most of the needed basics]([https://www.coursera.org/learn/ai-for-everyone](https://youtube.com/playlist?list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)) <br>
+ [Most of the needed basics](https://youtube.com/playlist?list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7) <br>
  Task 1 : [Notebook link]() <br>
 
  ### Week 2: 
- First week in [Whole Intro to ML]([https://www.coursera.org/learn/machine-learning](https://www.youtube.com/watch?v=9f-GarcDY58)) <br>  
+ First week in [Whole Intro to ML](https://www.youtube.com/watch?v=9f-GarcDY58) <br>  
  Task 2 : []() <br>
   
  ### Week 3: 
- [Linear Regression](https://www.youtube.com/watch?v=lNHaZlZJATw) <br>
+ [Regression](https://www.coursera.org/learn/ml-regression?specialization=machine-learning) <br>
   
  ### Week 4: 
- [Logistic Regression](https://youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe) <br>
+ [classification](https://www.coursera.org/learn/ml-classification?specialization=machine-learning) <br>
  
  ### Week 5: 
+ [clustering](https://www.coursera.org/learn/ml-clustering-and-retrieval?specialization=machine-learning) <br>
+ 
+ ### Week 6: 
+ [einforcement Learning](https://youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) <br>
+
+ 
+ ### Optinal 
+ ### Week 1: 
  [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
   
- ### Week 8: 
+ ### Week 2: 
  Third Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
  
- ### Week 9: 
+ ### Week 3: 
  Fourth Week in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br>
- Task 2 : [Notebook link]() <br>
- 
- ### Week 10:
- First Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br> 
- 
- ### Week 11:
- Second Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)<br>
- 
- ### Week 12:
- Third Week [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
- Task 3 : [Notebook link]() <br>
 
 
 
- ## Advanced B
- More to be added.
+ ## Advanced 
+   ................
