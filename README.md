@@ -15,7 +15,7 @@
  Task 2 : [Notebook link]() <br>  
   
  ### Week 3:
- [Numpy playlist](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br> 
+ [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s) <br> 
  [Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827?fbclid=IwAR1w3TNQ50zyRncxsZLFgVG1I_atICLm9Tl-HYTA3vDUoz_gzpJeE5QHnvA) <br> 
  Task 3 : [Notebook link]() <br>
  
