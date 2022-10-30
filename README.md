@@ -8,7 +8,7 @@
  
  ### Python : 
  [Python (Udacity Course)](https://www.udacity.com/course/introduction-to-python--ud1110) <br>
- Task :  [Notebook link]() <br> 
+ Task :  [Notebook link](https://colab.research.google.com/drive/18ObGGMxD_y___FlpOCQ4Q62IeckvRCs6?usp=sharing) <br> 
  
  ### OOP py : 
  [oop Playlist](https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) <br>
