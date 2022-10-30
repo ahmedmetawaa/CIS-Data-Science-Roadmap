@@ -57,7 +57,7 @@
  Task : [Notebook link]() <br>
 
  ### : Intro To ML
- [Whole Intro to ML](https://www.youtube.com/watch?v=9f-GarcDY58) <br>  
+ [Whole Intro to ML](https://youtu.be/NWONeJKn6kc) <br>  
  Task : [Notebook link]() <br>
   
  ### Regression in ML: 
